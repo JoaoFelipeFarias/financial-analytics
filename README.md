@@ -11,7 +11,7 @@ A UF que escolhi foi **Pernambuco (PE)**.
 - `index.ipynb` — o notebook com tudo: análise descritiva, testes, modelo, previsão e discussão.
 - `index.html` — o mesmo notebook renderizado em HTML (é o que vai pro GitHub Pages).
 - `requirements.txt` — as bibliotecas que usei.
-- `.gitignore` — o de sempre.
+- `.gitignore` — gitignore padrão;
 
 ## Como rodar
 
