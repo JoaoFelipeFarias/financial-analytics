@@ -2,6 +2,8 @@
 
 Esse é o lab da disciplina de **Financial Analytics** (Insper).
 
+Acessível em: https://joaofelipefarias.github.io/financial-analytics/
+
 A ideia do exercício foi pegar a série da **PMC** (Pesquisa Mensal do Comércio do IBGE). índice de volume de vendas no varejo ampliado, mensal, base 2022 = 100, e ajustar um SARIMA pra uma UF específica.
 
 A UF que escolhi foi **Pernambuco (PE)**.
